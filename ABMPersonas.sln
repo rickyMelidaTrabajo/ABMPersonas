@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABMPersonas", "ABMPersonas\ABMPersonas.csproj", "{D7B5368C-3150-45D7-9FD8-363A61CEFD2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABMPersonasApi", "ABMPersonasApi\ABMPersonasApi.csproj", "{FAB574A5-8B57-430F-9868-414E2CF80B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B5368C-3150-45D7-9FD8-363A61CEFD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B5368C-3150-45D7-9FD8-363A61CEFD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B5368C-3150-45D7-9FD8-363A61CEFD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B5368C-3150-45D7-9FD8-363A61CEFD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB574A5-8B57-430F-9868-414E2CF80B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB574A5-8B57-430F-9868-414E2CF80B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB574A5-8B57-430F-9868-414E2CF80B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB574A5-8B57-430F-9868-414E2CF80B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BA73DC-43DA-4D82-A910-639A2560A70D}
+	EndGlobalSection
+EndGlobal
